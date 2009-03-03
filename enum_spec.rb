@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'spec'
 
-require File.dirname(__FILE__) + '/enum'
+require File.dirname(__FILE__) + '/sandbox'
 
 describe "Color.all" do
   it "should return all valid colors" do
